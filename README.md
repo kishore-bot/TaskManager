@@ -54,21 +54,9 @@ This is a Full Stack Task Manager application that allows users to manage their 
 
 ## Images
 
-### Backend
-
-## Frontend Screenshots
-
-### Login Screen
-
-![Login Screen](https://i.postimg.cc/C5zBbjcq/Log.png)
-
-Description or additional information about the Login Screen...
-
-## Frontend Architecture Screenshots
-
 ### App Ui Screen
 
-![App_Ui_Screen](https://i.postimg.cc/8c9F4jYn/Sign.png)
+![App_Ui_Screen](https://github.com/kishore-bot/TaskManager/blob/main/Images/Frontend.png)
 
 
 
@@ -76,7 +64,7 @@ Description or additional information about the Login Screen...
 
 ### Backend Image 
 
-![Backend Image ](https://i.postimg.cc/L6JLPMWb/B1.png)
+![Backend Image ](https://github.com/kishore-bot/TaskManager/blob/main/Images/Backend.png)
 
 - Backend on Backend Folder
 
