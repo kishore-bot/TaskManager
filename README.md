@@ -64,58 +64,25 @@ This is a Full Stack Task Manager application that allows users to manage their 
 
 Description or additional information about the Login Screen...
 
-### Sign In Screen
+## Frontend Architecture Screenshots
 
-![Sign In Screen](https://i.postimg.cc/8c9F4jYn/Sign.png)
+### App Ui Screen
 
-Description or additional information about the Sign In Screen...
+![App_Ui_Screen](https://i.postimg.cc/8c9F4jYn/Sign.png)
 
-### Home Screen
 
-![Home Screen](https://i.postimg.cc/nLJDN9hy/Home.png)
-
-Description or additional information about the Home Screen...
-
-### Add Task Screen
-
-![Add Task Screen](https://i.postimg.cc/kM1WD5TS/Add.png)
-
-Description or additional information about the Add Task Screen...
-
-### Details Screen
-
-![Details Screen](https://i.postimg.cc/j58nW84T/Details.png)
-
-Description or additional information about the Details Screen...
-
-### Stars Screen
-
-![Stars Screen](https://i.postimg.cc/KcHgxHYr/Stars.png)
-
-Description or additional information about the Stars Screen...
 
 ## Backend Architecture Screenshots
 
-### Backend Image 1
+### Backend Image 
 
-![Backend Image 1](https://i.postimg.cc/L6JLPMWb/B1.png)
+![Backend Image ](https://i.postimg.cc/L6JLPMWb/B1.png)
 
-Description or additional information about Backend Image 1...
+- Backend on Backend Folder
 
-### Backend Image 2
 
-![Backend Image 2](https://i.postimg.cc/DyRsdMky/B2.png)
+### Images
 
-Description or additional information about Backend Image 2...
+- Images Are on Image Folder
 
-### Backend Image 3
 
-![Backend Image 3](https://i.postimg.cc/yNyZK6Jk/B3.png)
-
-Description or additional information about Backend Image 3...
-
-### Backend Image 4
-
-![Backend Image 4](https://i.postimg.cc/26jBSpvT/B4.png)
-
-Description or additional information about Backend Image 4...
