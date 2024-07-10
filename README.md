@@ -62,8 +62,6 @@ This is a Full Stack Task Manager application that allows users to manage their 
 
 ## Backend Architecture Screenshots
 
-### Backend Image 
-
 ![Backend Image ](https://github.com/kishore-bot/TaskManager/blob/main/Images/Backend.png)
 
 - Backend on Backend Folder
